@@ -1,0 +1,27 @@
+.Header{
+    display:grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto;
+    grid-gap: 10px;
+    padding-left: 70px;
+    overflow: hidden;
+}
+
+.head{
+    background-image: url(../Assets/Images/contactImg2.jpg);
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.Card{
+    background-image: url(../Assets/Images/contactImg2.jpg);
+    color: white !important;
+    overflow: hidden;
+}
+
+.button{
+    background-image: url(../Assets/Images/contactImg2.jpg);
+    color: white;
+    margin-left: 280px;
+}
